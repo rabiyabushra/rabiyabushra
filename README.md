@@ -1,211 +1,312 @@
-# 👋 Hi, I'm Rabiya Bushra
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<div align="center">
 
-### 💻 Computer Science Engineering Student | Full Stack Developer | Data & AI Enthusiast
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Rabiya%20Bushra&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Explainable%20AI&descSize=18&descAlignY=60&animation=fadeIn" alt="Rabiya Bushra banner" />
 
-I'm a Computer Science Engineering student passionate about building
-real-world applications using full-stack development, data science,
-machine learning, and modern web technologies.
+<a href="https://github.com/rabiyabushra">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rabiya+Bushra+%F0%9F%91%8B;Computer+Science+Engineering+Student;Full+Stack+Developer+(React+%7C+Node+%7C+MongoDB);Data+Science+%26+AI+Enthusiast;Building+practical+real-world+applications" alt="Typing animation" />
+</a>
 
-I enjoy turning ideas into practical, user-friendly applications and
-continuously learning through projects, internships, hackathons, and research.
+<br/>
 
----
+**Computer Science Engineering Student &nbsp;|&nbsp; Full Stack Developer &nbsp;|&nbsp; Data Science & AI Enthusiast**
 
+<br/>
+
+<!-- ═══════════════════════ PORTFOLIO CTA ═══════════════════════ -->
+<a href="https://rabiyaportfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20VISIT%20MY%20PORTFOLIO-rabiyaportfolio.vercel.app-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Visit my portfolio" height="42" />
+</a>
+
+<br/><br/>
+
+<a href="https://rabiyaportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/rabiyabushra"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/rabiya-bushra-b4081b2a8/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="mailto:rabiyabushra07@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=rabiyabushra&label=Profile+Views&color=1f6feb&style=flat-square" alt="Profile views" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science Engineering Student
-- 💻 Full Stack Developer
-- 🤖 Interested in Machine Learning & AI
-- 📊 Exploring Data Science & Analytics
-- 🌐 Building web applications using the MERN stack
-- ☁️ Exploring Cloud Technologies
-- 🏆 Interested in hackathons and collaborative projects
-- 🌱 Always learning and improving my technical skills
+I'm a Computer Science Engineering student who enjoys turning ideas into practical, real-world applications, from full-stack web platforms to machine-learning systems that explain their own decisions.
 
----
+| | |
+|---|---|
+| 🌐 **Full Stack Development** | React, Node.js, Express and MongoDB applications |
+| ☕ **Java & Python** | Application development and data-driven problem solving |
+| 🤖 **ML & Explainable AI** | Classification, model interpretation with SHAP |
+| 📊 **Data Science & Analytics** | Exploration, visualisation and dashboards |
+| ☁️ **Cloud Computing** | Google Cloud Platform foundations |
+| 🛠️ **Real-world Apps** | Building tools that solve practical problems |
 
-## 🛠️ Tech Stack
+<br/>
 
-### 👨‍💻 Programming Languages
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+## 📊 GitHub Statistics
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<div align="center">
 
-### 🌐 Frontend
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rabiyabushra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiyabushra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages" />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+<img height="170" src="https://streak-stats.demolab.com?user=rabiyabushra&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=8957e5&currStreakLabel=58a6ff" alt="GitHub streak" />
 
-### ⚙️ Backend & Database
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rabiyabushra&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true" alt="Contribution activity graph" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+</div>
 
-### 📊 Data Science & Visualization
+<details>
+<summary><b>Stats not loading? Open fallback links</b></summary>
+<br/>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+- [View my GitHub profile](https://github.com/rabiyabushra)
+- [Browse all repositories](https://github.com/rabiyabushra?tab=repositories)
+- [Contribution activity](https://github.com/rabiyabushra?tab=overview)
 
-### 🤖 Machine Learning
+</details>
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
-![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-blue?style=flat)
+<br/>
 
-### 🔧 Tools
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+## 🧰 Technology Stack
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<div align="center">
 
----
+| Category | Technologies |
+|:--|:--|
+| **Programming** | <img src="https://skillicons.dev/icons?i=c,java,py,js&theme=dark" alt="C, Java, Python, JavaScript" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark" alt="HTML5, CSS3, React, Bootstrap" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="MongoDB, MySQL" /> |
+| **Data Science** | <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,powerbi&theme=dark" alt="Pandas, NumPy, Matplotlib, Power BI" /> ![Tableau](https://img.shields.io/badge/Tableau-0d1117?style=flat-square&logo=tableau&logoColor=E97627) |
+| **Machine Learning** | <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn" /> ![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logo=xgboost&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-0d1117?style=flat-square&logoColor=white) |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code, Postman" /> |
+| **Cloud** | <img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Google Cloud Platform" /> |
 
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 ## 🚀 Featured Projects
 
-### 🏥 BarrierLens
+### ⭐ Newly Added
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🩺 [BarrierLens](https://github.com/rabiyabushra/BarrierLens_MP_G25)
 **Data-Driven Approaches to Identifying Barriers in Women's Healthcare Access in India**
 
-A machine-learning based project that identifies and analyzes
-household-level, logistic, and facility-level barriers affecting
-women's healthcare access using NFHS-5 data.
+A machine-learning project that identifies and analyses household-level, logistic and facility-level barriers affecting women's healthcare access, using **NFHS-5** data.
 
-**Tech:** Python • Pandas • Scikit-learn • XGBoost • SHAP
+- 🎯 Classification of healthcare-access barriers
+- 🔍 Explainability with **SHAP**
+- 📈 Data analytics and feature analysis
 
----
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logo=xgboost&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-0d1117?style=flat-square)
 
-### 📝 QPDS — Question Paper Delivery System
+[**View Repository →**](https://github.com/rabiyabushra/BarrierLens_MP_G25)
 
-A web-based platform designed to simplify the creation, submission,
-review, and management of question papers digitally.
+</td>
+<td width="50%" valign="top">
 
-**Tech:** React.js • Node.js • Express.js • MongoDB
+#### 👁️ [DL_Hey_Vision](https://github.com/rabiyabushra/DL_Hey_Vision)
+**Deep Learning Mini-Project**
 
-**Key Features:**
-- 📝 Question paper creation
-- 📤 Digital submission
-- 👩‍🏫 Teacher workflow
-- 💬 Review and remarks
-- ☑️ Question and module management
-- 🔍 Paper filtering and management
+A deep learning mini-project focused on computer vision.
 
----
+<!-- TODO: Replace the line above with 2-3 bullet points describing the actual objective, dataset, model and results from the repository README. -->
 
-### 🏨 HomelyHub
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0d1117?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0d1117?style=flat-square)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 
-A full-stack resort booking platform designed to provide users with
-a simple and convenient way to explore resorts and manage bookings.
+[**View Repository →**](https://github.com/rabiyabushra/DL_Hey_Vision)
 
-**Tech:** React.js • Node.js • Express.js • MongoDB
+</td>
+</tr>
+</table>
 
-**Key Features:**
-- 🏨 Resort listings
-- 🔎 Search and filtering
-- 👤 User management
-- 📅 Booking management
-- 📱 Responsive interface
+### 💻 Full Stack & Web Applications
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### ⚡ Smart Energy Optimizer
+#### 📝 QPDS: Question Paper Delivery System
+A web-based platform for creating, submitting, reviewing and managing question papers digitally.
 
-A machine-learning based energy optimization dashboard that analyzes
-simulated device and room usage data to identify opportunities for
-reducing energy consumption.
+- Question paper creation
+- Digital submission
+- Teacher workflow
+- Review and remarks
+- Question and module management
 
-**Tech:** Python • Flask • Scikit-learn • React.js
+![React](https://img.shields.io/badge/React.js-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
 
----
+</td>
+<td width="50%" valign="top">
 
-### 💰 Expense Tracker
+#### 🏨 HomelyHub
+A full-stack resort booking platform.
 
-A web application for recording, managing, and visualizing personal
-expenses through an interactive dashboard.
+- Resort listings
+- Search and filtering
+- User management
+- Booking management
+- Responsive interface
 
-**Tech:** React.js • JavaScript • Chart.js
+![React](https://img.shields.io/badge/React.js-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
 
-**Key Features:**
-- 💵 Add and manage expenses
-- 📊 Expense visualization
-- 📈 Spending analysis
-- 🗂️ Category-based tracking
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+#### 🌱 Sustainable Farming Platform
+A gamified, multilingual platform promoting sustainable farming practices.
 
-### 🌱 Sustainable Farming Platform
+- Interactive learning modules
+- Quizzes, scores and badges
+- Multilingual learning
+- Timed challenges
 
-A gamified multilingual learning platform designed to promote
-sustainable farming practices through interactive modules,
-quizzes, scoring, and achievements.
+![React](https://img.shields.io/badge/React.js-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![APIs](https://img.shields.io/badge/Backend%20APIs-0d1117?style=flat-square)
 
-**Tech:** React.js • JavaScript • Backend APIs
+</td>
+<td width="50%" valign="top">
 
-**Key Features:**
-- 🌱 Sustainable farming modules
-- 🧠 Interactive quizzes
-- 🏆 Scores and badges
-- 🌐 Multilingual learning
-- ⏱️ Timed challenges
+#### 💰 Expense Tracker
+A web application for managing and visualising personal expenses.
 
----
+- Expense management
+- Chart-based visualisation
 
-## 🏆 Achievements & Activities
+![React](https://img.shields.io/badge/React.js-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Chart.js](https://img.shields.io/badge/Chart.js-0d1117?style=flat-square&logo=chartdotjs&logoColor=FF6384)
 
-- 🥇 DBMS Hackathon — Winner
-- 👩‍💻 WWT All India Women Hackathon 2025
-- 💡 Smart India Hackathon 2025 — Internal Round
-- ☁️ Google Cloud Career Launchpad
-- 🏛️ ACM Chapter — Technical & Leadership Activities
-- 💻 Full Stack Web Development Internship
+</td>
+</tr>
+</table>
 
----
+### ⚡ Machine Learning
 
-## 📜 Certifications
+<table>
+<tr>
+<td valign="top">
 
-- ☁️ Google Cloud Career Launchpad — Cloud Engineer Track
-- 💻 TCS iON — Programming Foundation
-- ☕ Java Foundation — Infosys Springboard
-- 📚 Theory of Computation — Mind Luster
+#### 🔋 Smart Energy Optimizer
+A machine-learning-based energy optimisation dashboard.
 
----
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![React](https://img.shields.io/badge/React.js-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/rabiyabushra?tab=repositories">
+  <img src="https://img.shields.io/badge/Browse%20all%20repositories%20%E2%86%92-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Browse all repositories" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ ACHIEVEMENTS ═══════════════════════════ -->
+## 🏆 Achievements & Leadership
+
+> 🔬 **Research Head, ACM Network and Security Research Group**
+
+<details open>
+<summary><b>Hackathons & Programs</b></summary>
+<br/>
+
+- 🥇 **DBMS Hackathon:** Winner
+- 💡 **WWT All India Women Hackathon 2025:** Participant
+- 🇮🇳 **Smart India Hackathon 2025:** Internal Round
+- ☁️ **Google Cloud Career Launchpad:** Cloud Engineer Track
+
+</details>
+
+<details>
+<summary><b>Leadership & Experience</b></summary>
+<br/>
+
+- 🤝 **ACM Chapter:** Technical and leadership activities
+- 💼 **Full Stack Web Development Intern**, Suktha Solutions
+
+</details>
+
+<br/>
+
+<!-- ═══════════════════════════ CERTIFICATIONS ═══════════════════════════ -->
+## 🎓 Certifications
+
+| Certification | Issuer / Platform |
+|:--|:--|
+| Cloud Engineer Track, Career Launchpad | Google Cloud |
+| Programming Foundation | TCS iON |
+| Java Foundation | Infosys Springboard |
+| Theory of Computation | Mind Luster |
+
+<br/>
+
+<!-- ═══════════════════════════ LEARNING ═══════════════════════════ -->
 ## 🌱 Currently Learning
 
-- 🤖 Machine Learning & Explainable AI
-- 🌐 Advanced Full Stack Development
-- ☁️ Cloud Computing
-- 📊 Data Science & Analytics
-- 🧩 Data Structures & Algorithms
-- 🏗️ Software Development & System Design
+- ☁️ Cloud computing on Google Cloud Platform
+- 🤖 Machine learning and Explainable AI
+- 🧠 Deep learning and computer vision
+- 🌐 Advanced full-stack development
 
----
+<br/>
 
+<!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
+## 📬 Connect With Me
 
+<div align="center">
 
-## 🤝 Let's Connect
+| 🌐 Portfolio | 💼 LinkedIn | 🐙 GitHub | ✉️ Email |
+|:-:|:-:|:-:|:-:|
+| [rabiyaportfolio.vercel.app](https://rabiyaportfolio.vercel.app/) | [rabiya-bushra](https://www.linkedin.com/in/rabiya-bushra-b4081b2a8/) | [@rabiyabushra](https://github.com/rabiyabushra) | [rabiyabushra07@gmail.com](mailto:rabiyabushra07@gmail.com) |
 
-<p align="center">
+</div>
 
-<a href="https://www.linkedin.com/in/rabiya-bushra-b4081b2a8/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/>
 
-<a href="mailto:rabiyabushra07@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<!-- ═══════════════════════════ CLOSING ═══════════════════════════ -->
+<div align="center">
 
-</p>
+**Always learning, always building. Let's create something impactful together.** ✨
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=110&section=footer" alt="Footer" />
 
-### 💡 Building, learning, and improving one project at a time. 🚀
+</div>
