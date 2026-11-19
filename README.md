@@ -25,10 +25,6 @@
 <a href="https://www.linkedin.com/in/rabiya-bushra-b4081b2a8/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
 <a href="mailto:rabiyabushra07@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=rabiyabushra&label=Profile+Views&color=1f6feb&style=flat-square" alt="Profile views" />
-
 </div>
 
 <br/>
@@ -46,32 +42,6 @@ I'm a Computer Science Engineering student who enjoys turning ideas into practic
 | 📊 **Data Science & Analytics** | Exploration, visualisation and dashboards |
 | ☁️ **Cloud Computing** | Google Cloud Platform foundations |
 | 🛠️ **Real-world Apps** | Building tools that solve practical problems |
-
-<br/>
-
-<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rabiyabushra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiyabushra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=rabiyabushra&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=8957e5&currStreakLabel=58a6ff" alt="GitHub streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rabiyabushra&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true" alt="Contribution activity graph" />
-
-</div>
-
-<details>
-<summary><b>Stats not loading? Open fallback links</b></summary>
-<br/>
-
-- [View my GitHub profile](https://github.com/rabiyabushra)
-- [Browse all repositories](https://github.com/rabiyabushra?tab=repositories)
-- [Contribution activity](https://github.com/rabiyabushra?tab=overview)
-
-</details>
 
 <br/>
 
@@ -98,8 +68,6 @@ I'm a Computer Science Engineering student who enjoys turning ideas into practic
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 ## 🚀 Featured Projects
 
-### ⭐ Newly Added
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -124,29 +92,6 @@ A machine-learning project that identifies and analyses household-level, logisti
 </td>
 <td width="50%" valign="top">
 
-#### 👁️ [DL_Hey_Vision](https://github.com/rabiyabushra/DL_Hey_Vision)
-**Deep Learning Mini-Project**
-
-A deep learning mini-project focused on computer vision.
-
-<!-- TODO: Replace the line above with 2-3 bullet points describing the actual objective, dataset, model and results from the repository README. -->
-
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0d1117?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0d1117?style=flat-square)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-
-[**View Repository →**](https://github.com/rabiyabushra/DL_Hey_Vision)
-
-</td>
-</tr>
-</table>
-
-### 💻 Full Stack & Web Applications
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
 #### 📝 QPDS: Question Paper Delivery System
 A web-based platform for creating, submitting, reviewing and managing question papers digitally.
 
@@ -160,6 +105,24 @@ A web-based platform for creating, submitting, reviewing and managing question p
 ![Node](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 👁️ [DL_Hey_Vision](https://github.com/rabiyabushra/DL_Hey_Vision)
+**Deep Learning Mini-Project**
+
+A deep learning mini-project focused on computer vision.
+
+<!-- TODO: Replace the line above with 2-3 bullet points describing the actual objective, dataset, model and results from the repository README. -->
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0d1117?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0d1117?style=flat-square)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+
+[**View Repository →**](https://github.com/rabiyabushra/DL_Hey_Vision)
 
 </td>
 <td width="50%" valign="top">
@@ -183,17 +146,13 @@ A full-stack resort booking platform.
 <tr>
 <td width="50%" valign="top">
 
-#### 🌱 Sustainable Farming Platform
-A gamified, multilingual platform promoting sustainable farming practices.
+#### 🔋 Smart Energy Optimizer
+A machine-learning-based energy optimisation dashboard.
 
-- Interactive learning modules
-- Quizzes, scores and badges
-- Multilingual learning
-- Timed challenges
-
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
 ![React](https://img.shields.io/badge/React.js-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![APIs](https://img.shields.io/badge/Backend%20APIs-0d1117?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -210,23 +169,23 @@ A web application for managing and visualising personal expenses.
 
 </td>
 </tr>
-</table>
-
-### ⚡ Machine Learning
-
-<table>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-#### 🔋 Smart Energy Optimizer
-A machine-learning-based energy optimisation dashboard.
+#### 🌱 Sustainable Farming Platform
+A gamified, multilingual platform promoting sustainable farming practices.
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+- Interactive learning modules
+- Quizzes, scores and badges
+- Multilingual learning
+- Timed challenges
+
 ![React](https://img.shields.io/badge/React.js-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![APIs](https://img.shields.io/badge/Backend%20APIs-0d1117?style=flat-square)
 
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
