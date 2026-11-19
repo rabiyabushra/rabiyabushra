@@ -127,7 +127,7 @@ A deep learning mini-project focused on computer vision.
 </td>
 <td width="50%" valign="top">
 
-#### 🏨 HomelyHub
+#### 🏨 [HomelyHub](https://github.com/rabiyabushra/HomelyHub)
 A full-stack resort booking platform.
 
 - Resort listings
@@ -141,18 +141,22 @@ A full-stack resort booking platform.
 ![Express](https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
 
+[**View Repository →**](https://github.com/rabiyabushra/HomelyHub)
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🔋 Smart Energy Optimizer
+#### 🔋 [Smart Energy Optimizer](https://github.com/rabiyabushra/Smart-Energy-ML)
 A machine-learning-based energy optimisation dashboard.
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
 ![React](https://img.shields.io/badge/React.js-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+
+[**View Repository →**](https://github.com/rabiyabushra/Smart-Energy-ML)
 
 </td>
 <td width="50%" valign="top">
